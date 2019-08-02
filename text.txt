@@ -1,0 +1,53 @@
+O que é Machine learning:
+
+Machine learning é uma área da ciência da computação que significa ¨aprendizado da máquina¨.
+
+Faz parte do conceito de inteligência artificial, que estuda meios para que máquinas posam fazer tarefas que seriam executadas por pessoas.
+
+É uma programação usada nos computadores, formada por regras previamente definidas que permitem que os computadores tomem decisões com base nos dados prévios e em dados usados pelo usuário.
+
+De acordo com programações feitas o computador tem habilidade para tomar decisões que podem resolver problemas ou impulsionar publicações na internet, por exemplo.
+Como funciona o machine learning?
+
+A base do funcionamento são os algoritmos, que são sequências definidas e compostas por informações e instruções que vão ser seguidas pelo computador.
+
+Essas sequências permitem que os computadores tomem uma decisão de acordo com a situação e com as informações que foram inseridas nele.
+
+É o algoritmo que carrega as informações sobre como devem ser feitos determinados procedimentos e operações ou sobre como uma ação deve ser executada.
+
+Existem vários tipos de aplicação e de linguagens de programação para o uso dos algoritmos. Elas variam de acordo com a necessidade que vai ser atendida ou com o objetivo do algoritmo criado.
+Tipos de machine learning
+
+Existem dois tipos principais de aprendizado da máquina: a aprendizagem supervisionada e a aprendizagem não supervisionada.
+Aprendizagem supervisionada
+
+Na aprendizagem supervisionada existe um conjunto prévio de dados inseridos na máquina e as sugestões que serão dadas ao usuário devem ser parecidas com os dados registrados.
+
+Basicamente as informações são usadas para prever um resultado esperado pelo usuário ou para fazer a classificação de elementos usados.
+
+Exemplo: uma fotografia é colocada no navegador de internet, que faz uma busca para encontrar a informação sobre a origem da imagem ou outras imagens parecidas.
+Aprendizagem não supervisionada
+
+Na aprendizagem não supervisionada não existe um resultado específico esperado, ou seja, não é possível prever os resultados do cruzamento das informações.
+
+Nesse tipo de aprendizagem os dados são agrupados e os resultados mudam de acordo com as variáveis.
+
+Exemplo: em um motor de busca de uma biblioteca é possível conseguir resultados variados. A alteração dos resultados depende do tipo de busca feita e das variáveis que são usadas, como nome do livro, nome do autor ou data de publicação.
+
+Veja também o significado da Inteligência artificial.
+Para que serve o machine learning?
+
+O machine learning pode ser usado para muitas funções. Uma das mais usadas hoje em dia é nas mídias sociais, na pesquisa na internet e no marketing digital.
+
+Por exemplo: os algoritmos de machine learning são usados para fazer sugestões a um usuário da internet. São usados em sites de comércio virtual, redes sociais, jogos, plataformas de armazenamento de vídeos e aplicativos de reprodução de música.
+
+Nesse caso o algoritmo usa os dados das suas sequências e os dados de histórico de navegação na internet para fazer novas sugestões ao usuário. As preferências do usuário durante a navegação e o compartilhamento de dados são usados para fazer a sugestão de programas ou serviços que sejam parecidos.
+
+Esses são usos mais comuns, mas os conhecimentos do machine learning também podem ser aplicados para muitas outras situações, como:
+
+    pesquisas na internet,
+    coleta e análise de dados,
+    rastreamento de mensagens de spam,
+    organização e classificação de informações,
+    busca de fraudes na internet.
+
